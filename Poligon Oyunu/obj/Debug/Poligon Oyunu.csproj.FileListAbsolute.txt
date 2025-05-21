@@ -1,0 +1,10 @@
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\bin\Debug\Poligon Oyunu.exe.config
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\bin\Debug\Poligon Oyunu.exe
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\bin\Debug\Poligon Oyunu.pdb
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon Oyunu.csproj.AssemblyReference.cache
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon_Oyunu.Form1.resources
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon_Oyunu.Properties.Resources.resources
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon Oyunu.csproj.GenerateResource.cache
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon Oyunu.exe
+C:\Users\otost\source\repos\Poligon Oyunu\Poligon Oyunu\obj\Debug\Poligon Oyunu.pdb
